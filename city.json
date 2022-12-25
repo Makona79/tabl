@@ -1,0 +1,32 @@
+[
+  {
+   "id": 0,
+   "title": "Москва",
+   "category": 1
+  },
+  {
+    "id": 0,
+    "title": "Санкт-Петербург",
+    "category": 1
+   },
+   {
+    "id": 0,
+    "title": "Самара",
+    "category": 1
+   },
+   {
+    "id": 0,
+    "title": "Тольятти",
+    "category": 1
+   },
+   {
+    "id": 0,
+    "title": "Воронеж",
+    "category": 1
+   },
+   {
+    "id": 0,
+    "title": "Ростов",
+    "category": 1
+   }
+]
